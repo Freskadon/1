@@ -16,9 +16,9 @@
 
 ### Пример изображения
 
-![Описание изображения](avatar.jpg)
+![Описание изображения](images/avatar.jpg)
 
 ### Ссылки
 
-Для изучения Markdown вы можете посетить [официальное руководство](https://www.markdownguide.org).
+Для изучения Markdown вы можете посетить [официальное руководство](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
